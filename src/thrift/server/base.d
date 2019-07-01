@@ -51,7 +51,7 @@ class TServer {
   /// The server event handler to notify. Null by default.
   TServerEventHandler eventHandler;
 
-protected:
+package:
   this(
     TProcessor processor,
     TServerTransport serverTransport,

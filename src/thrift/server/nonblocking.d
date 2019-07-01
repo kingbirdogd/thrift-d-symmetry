@@ -65,7 +65,7 @@ import thrift.transport.memory;
 import thrift.transport.range;
 import thrift.transport.socket;
 import thrift.util.cancellation;
-
+import thrift.server.base:TServer;
 /**
  * Possible actions taken on new incoming connections when the server is
  * overloaded.
