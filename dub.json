@@ -1,7 +1,8 @@
 {
-	"name": "thrift-d",
+	"name": "thrift-d-symmetry",
 	"authors": [
-		"dhasenan"
+		"dhasenan",
+		"symmetry_branch"
 	],
 	"dependencies": {
 		"libevent": "~>2.0.2",
